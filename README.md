@@ -1,4 +1,4 @@
-# Optimal Site Selection for Youth Public Housing (15-Minute Walkable City)
+# Optimal Site Selection for Public Housing (15-Minute Walkable City)
 
 ## Abstract
 This project analyzes optimal locations for youth public rental housing in Changwon, South Korea, based on the 15-minute walkable city concept.  
